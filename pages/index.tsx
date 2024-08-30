@@ -8,12 +8,14 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Create Next App</title>
+        <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">HoleTex</a>
+          Welcome to
+          <a href="https://nextjs.org">HoleTex</a>
         </h1>
 
         <p className={styles.description}>
